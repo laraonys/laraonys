@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola 👋
 
 <!--
 **laraonys/laraonys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🙋🏽‍♀️ Hola! Mi nombre es Lara soy Full-Stack Developer con experiencia en JavaScript. 
+🙋🏽‍♀️ Mi nombre es Lara soy Full-Stack Developer con experiencia en JavaScript. 
 
 💻 Estos conocimientos los obtuve a lo largo de mi cursada en el Bootcamp de SoyHenry, donde luego de llevar adelante +700 horas de programación y desarrollo de proyectos, aprendí y perfeccioné mis habilidades de Back-end y Front-end. 
 
