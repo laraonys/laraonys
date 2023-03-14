@@ -28,5 +28,5 @@ Si querés saber más de mi, no dudes en contactarme!
 Te dejo mis datos de contacto más simple 😉 
 </hr>
 📩 Mail: lara.onys@gmail.com
-💻 GitHub: 
+💻 LinkedIn: https://www.linkedin.com/in/lara-onys/ 
 📞 WhatsApp: +54 9 341 275 0129
