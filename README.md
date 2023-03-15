@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 Si querés saber más de mi, no dudes en contactarme! 
 
-Te dejo mis datos de contacto más simple 😉 
+Te dejo mis datos de contacto así es más simple 😉 
 </hr>
 📩 Mail: lara.onys@gmail.com
 💻 LinkedIn: https://www.linkedin.com/in/lara-onys/ 
